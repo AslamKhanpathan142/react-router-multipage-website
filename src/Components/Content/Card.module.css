@@ -1,0 +1,39 @@
+#main {
+    height: 600px;
+}
+.h2{
+    color: white;
+    margin-bottom: 15px;
+}
+.p{
+    color: white;
+    line-height: 30px;
+}
+
+.buttn {
+    margin-top: 15px;
+    
+}
+#img1 {
+    height: 500px;
+    width: 100%;
+    /* margin: 40px 0px 0px 80px; */
+   
+}
+#img2 {
+    
+    height: 500px;
+}
+
+.card {
+    order: 2;
+}
+.left {
+    align-items: end;
+}
+.right {
+    align-items: start;
+}
+
+
+  

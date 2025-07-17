@@ -1,0 +1,8 @@
+/* App.css */
+#img{
+    max-height: 500px; /* Set the desired maximum height */
+    width: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image horizontally */
+    display: block; /* Ensure the image is treated as a block element */
+  }
+  

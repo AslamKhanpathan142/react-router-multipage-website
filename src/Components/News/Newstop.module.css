@@ -1,0 +1,39 @@
+#cont {
+    /* height: 200px; */
+   width: 32%;
+    color: white;
+    border-radius: 10px;
+    /* min-width: 100%; */
+   
+
+}
+
+#cont h2{
+    margin: 20px 0px 10px 20px;
+}
+
+#cont h5{
+    margin: 20px 0px 10px 20px;
+    color: rgb(166, 162, 162);
+}
+
+#cont p{
+    margin: 20px 0px 10px 20px;
+    color: red;
+}
+
+#cont button{
+    margin: 10px 0px 20px 20px;
+}
+
+#style {
+    min-width: 500px;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.imm {
+    height: 200px;
+    width: 90%;
+    margin: 20px 0px 0px 20px;
+}

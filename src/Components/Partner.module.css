@@ -1,0 +1,15 @@
+.div {
+    height: 120px;
+    width: 120px;
+    background-color: aliceblue;
+}
+
+.div img {
+    height: 120px;
+    width: 120px;
+}
+.maindiv {
+    height: 400px;
+    /* display: flex; */
+  
+}

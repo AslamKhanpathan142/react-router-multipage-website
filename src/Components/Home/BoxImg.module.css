@@ -1,0 +1,35 @@
+#box {
+    height: 290px;
+    width: 24.5%;
+    
+    margin: 264px 0px 0px 0px;
+    background-color: rgba(0, 0, 0, 0.507);
+    
+}
+
+#box h1 {
+    margin-top: 20px;
+    color: yellow;
+}
+
+#box h2 {
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#box p {
+    color: white;
+    margin-left: 15px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+#box button {
+   
+    text-align: center;
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+   
+}

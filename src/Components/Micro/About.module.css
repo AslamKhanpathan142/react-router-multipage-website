@@ -1,0 +1,29 @@
+.main {
+    width: 32%;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    
+}
+
+.main img {
+    /* mix-blend-mode: multiply; */
+    width: 100%;
+}
+
+.main a {
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.main h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#max {
+        min-width: 500px;
+        overflow: hidden;
+        flex-wrap: wrap;
+        margin-bottom: 0px;
+}

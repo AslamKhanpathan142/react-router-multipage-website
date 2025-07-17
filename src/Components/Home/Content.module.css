@@ -1,0 +1,32 @@
+#main {
+    height: 600px;
+}
+.h2{
+    color: white;
+    margin-bottom: 15px;
+}
+.p{
+    color: white;
+    line-height: 30px;
+}
+
+.buttn {
+    margin-top: 15px;
+    
+}
+#img1 {
+    height: 500px;
+    /* margin: 40px 0px 0px 80px; */
+   
+}
+#img2 {
+    
+    height: 500px;
+}
+
+#div {
+    background-color: rgb(9, 9, 76);
+}
+
+
+  

@@ -1,0 +1,39 @@
+#div {
+   display: flex;
+   flex-direction: row;
+}
+
+#main h1{
+    color: white;
+    margin: 20px 0px 20px 0px ;
+}
+
+#imgdiv {
+    /* height: 350px; */
+   width: 300px;
+    /* background-color: #807a7a31; */
+    
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.img {
+    height: 200px;
+    width: 250px;
+    margin: 25px 0px 0px 25px;
+}
+
+#imgdiv h3 {
+    color: white;
+    margin: 15px 0px 0px 25px;
+}
+
+/* .imgdiv h3 {
+    color: white;
+    margin: 15px 0px 0px 25px;
+} */
+
+#max {
+    min-width: 500px;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
