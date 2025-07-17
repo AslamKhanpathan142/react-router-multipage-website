@@ -17,19 +17,6 @@ function App() {
     setvalues(Name);
   };
 
-  //const [movies, setmovies] = useState([]);
-
-  // const url = `http://www.omdbapi.com/?apikey=ce417c0b&s=${values}`;
-  // const getMovie = async () => {
-  //   const res = await fetch(url);
-  //   const data = await res.json();
-  //  //console.log(data);
-  //   setmovies(data.Search || []);
-  // };
-
-  // useEffect(() => {
-  //   getMovie();
-  // }, [values]);
 
   return (
     <>
